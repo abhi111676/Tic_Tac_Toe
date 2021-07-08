@@ -11,7 +11,7 @@ public class PlayerStartsFresh {
 
 	char[] board = createBoard();
 
-	public static void main1(String[] args) {
+	public static void main(String[] args) {
 
 		System.out.println("Welcome to the Tic_Tac_Toe Game");
 	}
